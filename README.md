@@ -1,5 +1,5 @@
 ###### Hi there 👋
 
-- 🌱 I’m currently learning some new features I didn't know about Python, like the __ repr__() method
-- 🤔 I’m looking for help with a programming language I made called Basic++
+- 🌱 I’m currently learning the Batch programming language
+- 🤔 I’m looking for help with making an OS called BatchOS. Link to repo: https://www.github.com/abhra2020-smart/BatchOS
 - ⚡ Fun fact: I started coding in COVID-19 for fun
